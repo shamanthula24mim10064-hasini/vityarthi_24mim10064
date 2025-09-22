@@ -131,4 +131,6 @@ Author: *Shamanthula Hasini*
 Institution: *VIT Bhopal University*  
 
 ---
+<img width="568" height="313" alt="image" src="https://github.com/user-attachments/assets/407f25df-4ab2-4c6e-a834-7f9289cc2b31" />
+<img width="864" height="540" alt="image" src="https://github.com/user-attachments/assets/8682ff9c-dbfb-4cca-b9ad-834cb58c171d" />
 
