@@ -32,10 +32,10 @@ Dynamic replanning is implemented: when an obstacle blocks the path, the agent d
 │ ├── dyn_large.json
 │ └── dyn_dynamic.json
 ├── logs/
-│ ├── bfs_logs.txt
-│ ├── ucs_logs.txt
-│ ├── astar_logs.txt
-│ └── hill_logs.txt
+│ ├── bfs_log.txt
+│ ├── ucs_log.txt
+│ ├── astar_log.txt
+│ └── hill_log.txt
 ├── src/
 │ ├── main.py # CLI entry point
 ├── README.md
