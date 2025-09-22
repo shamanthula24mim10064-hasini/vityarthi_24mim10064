@@ -25,7 +25,6 @@ Dynamic replanning is implemented: when an obstacle blocks the path, the agent d
 │ ├── map_medium.txt
 │ ├── map_large.txt
 │ └── map_dynamic.txt
-│
 ├── dynamic_obstacles/
 │ ├── dyn_small.json
 │ ├── dyn_medium.json
@@ -36,9 +35,9 @@ Dynamic replanning is implemented: when an obstacle blocks the path, the agent d
 │ ├── ucs_log.txt
 │ ├── astar_log.txt
 │ └── hill_log.txt
-├── src/
-│ ├── main.py # CLI entry point
+├── delivery_agent.ipynb #CLI entry point
 ├── README.md
+├── Report
 └── requirements.txt
 
 ---
