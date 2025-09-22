@@ -38,7 +38,7 @@ Dynamic replanning is implemented: when an obstacle blocks the path, the agent d
 ├── delivery_agent.ipynb #CLI entry point
 ├── README.md
 ├── report
-├── Screen Recording
+├── screen recording
 └── requirements.txt
 
 ---
