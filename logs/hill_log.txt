@@ -1,0 +1,6 @@
+Dynamic Replanning Log
+
+/content/drive/MyDrive/CSA2001_Project1/maps/map_large.txt - Planner: hill, Path length: 205, Replanning: Yes
+/content/drive/MyDrive/CSA2001_Project1/maps/map_small.txt - Planner: hill, Path length: 19, Replanning: Yes
+/content/drive/MyDrive/CSA2001_Project1/maps/map_medium.txt - Planner: hill, Path length: 87, Replanning: Yes
+/content/drive/MyDrive/CSA2001_Project1/maps/map_dynamic.txt - Planner: hill, Path length: 55, Replanning: Yes

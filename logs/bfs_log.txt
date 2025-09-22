@@ -1,0 +1,6 @@
+Dynamic Replanning Log
+
+/content/drive/MyDrive/CSA2001_Project1/maps/map_large.txt - Planner: bfs, Path length: 23, Replanning: Yes
+/content/drive/MyDrive/CSA2001_Project1/maps/map_small.txt - Planner: bfs, Path length: 9, Replanning: Yes
+/content/drive/MyDrive/CSA2001_Project1/maps/map_medium.txt - Planner: bfs, Path length: 15, Replanning: Yes
+/content/drive/MyDrive/CSA2001_Project1/maps/map_dynamic.txt - Planner: bfs, Path length: 15, Replanning: Yes
