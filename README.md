@@ -26,7 +26,7 @@ Dynamic replanning is implemented: when an obstacle blocks the path, the agent d
 │ ├── map_large.txt
 │ └── map_dynamic.txt
 │
-├── dynamics/
+├── dynamic_obstacles/
 │ ├── dyn_small.json
 │ ├── dyn_medium.json
 │ ├── dyn_large.json
